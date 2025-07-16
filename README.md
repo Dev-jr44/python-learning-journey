@@ -30,3 +30,8 @@ To grow from beginner to pro by building something small every single day.
 
 ## 📂 Structure of This Repo
 
+## Day 2 progress
+| 2   | July 16    | Largest Number Finder with While Loop | ✅ Done |
+
+
+
